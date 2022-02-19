@@ -1,0 +1,16 @@
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\Test_nedra.exe
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\Test_nedra.deps.json
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\Test_nedra.runtimeconfig.json
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\Test_nedra.runtimeconfig.dev.json
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\Test_nedra.dll
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\ref\Test_nedra.dll
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\bin\Debug\net5.0\Test_nedra.pdb
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.csproj.AssemblyReference.cache
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.AssemblyInfoInputs.cache
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.AssemblyInfo.cs
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.csproj.CoreCompileInputs.cache
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.dll
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\ref\Test_nedra.dll
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.pdb
+C:\Users\binar\source\repos\Test_nedra\Test_nedra\obj\Debug\net5.0\Test_nedra.genruntimeconfig.cache
